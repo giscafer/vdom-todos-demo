@@ -21,6 +21,8 @@ export default class FilteredList extends Component {
                 'Apples',
                 'Broccoli',
                 'Chicken',
+                'California1',
+                'New York1',
                 'Bacon',
                 'Eggs',
                 'Salmon',
